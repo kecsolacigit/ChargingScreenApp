@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.ChargingScreen" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Minimal -->
+    </style>
+</resources>
